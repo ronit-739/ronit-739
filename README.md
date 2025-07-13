@@ -11,7 +11,7 @@ I love building real-world projects that solve problems and push my skills furth
 ### 🚀 Skills
 
 - 💻 Programming: C, C++, Python, HTML, CSS  
-- 🛠 Hardware: Arduino, Sensors (MPU6050), Bluetooth Modules (HC-05)  
+- 🛠 Hardware: Arduino
 - 🔧 Tools: Git, GitHub, VS Code  
 - 📚 Currently learning: Django, Advanced Robotics Control
 
